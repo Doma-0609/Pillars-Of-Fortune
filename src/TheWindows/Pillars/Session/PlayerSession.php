@@ -102,7 +102,7 @@ class PlayerSession {
         $this->wins++;
     }
 
-    
+    // I wanna kiss bardia topolo aka TheWindows :(
 
     public function getCoins(): int {
         return $this->coins;
